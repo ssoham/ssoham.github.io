@@ -9,6 +9,11 @@ body {
   animation: Gradient 15s ease infinite;
 }
 
+.particles-js {
+    /* height: 100%; */
+    /* background: inherit; */
+}
+
 .name {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
