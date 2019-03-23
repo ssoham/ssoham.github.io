@@ -49,10 +49,19 @@ img.resize {
   position: inherit;
   font-style: italic;
   font-size: 15px;
-  top: 50%;
+  top: 90%;
   right: 0%;
   left: 0%;
 }
+
+.pjs {
+  z-index: 1;
+}
+
+.navbar {
+  z-index: 2;
+}
+
 /* Manuel Pinto for the CSS background */
 @-webkit-keyframes Gradient {
   0% {
