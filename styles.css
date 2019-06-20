@@ -3,7 +3,7 @@ body {
   height: 90vh;
   /* position: fixed; */
   overflow-y: hidden;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   background: linear-gradient(-125deg, #d6e28e, #3f699b);
   background-size: 400% 400%;
   color: #ffffff;
@@ -26,7 +26,7 @@ body {
 
 img.resize {
   max-width: 30%;
-  max-height: 30%;  
+  max-height: 30%;
 }
 
 .name {
@@ -43,46 +43,43 @@ img.resize {
   left: 0%;
 }
 
-.handle {
+.social {
   font-family: inherit;
   text-align: inherit;
   position: inherit;
-  font-style: italic;
-  font-size: 15px;
+  font-size: 20px;
   top: 90%;
   right: 0%;
   left: 0%;
 }
 
-.pjs {
+.p.js {
   z-index: 1;
 }
 
 .topnavbar {
-  background-color: #333333;
-  overflow: hidden;
+    width: 30%;
+    height: 50px;
+    background-color: #eefffe;
 }
 
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+.topnavbar a {
+
+}
+.topnavbar a:hover {
+
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+.twitter {
+    color: rgb(59, 91, 112);
+    font-size: 24px;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+.mail {
+    color: rgb(59, 91, 112);
+    font-size: 20px
 }
+
 /* Manuel Pinto for the CSS background */
 @-webkit-keyframes Gradient {
   0% {
