@@ -75,6 +75,12 @@ img.resize {
     font-size: 21px;
 }
 
+.discord-name {
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgb(59, 91, 112);
+}
+
 /* Manuel Pinto for the CSS background */
 @-webkit-keyframes Gradient {
   0% {
