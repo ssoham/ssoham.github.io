@@ -70,7 +70,10 @@ img.resize {
 .topnav {
     background-color: inherit;
     overflow: hidden;
+<<<<<<< HEAD
     /* filter: blur(2px); */
+=======
+>>>>>>> 295593b82dcf2e72531618ade60f8e7486869052
 }
 
 ul {
