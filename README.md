@@ -1,3 +1,3 @@
-# whattrash.github.io
+# my website!
 ----------
 github front page ;o
