@@ -1,0 +1,13 @@
+/* https://codepen.io/Callum-Martin/pen/aWpdGw> */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+body{
+  background-size:cover;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  letter-spacing: 2px;
+}
+svg{font-weight:bold;max-width:600px;height:100%;}
